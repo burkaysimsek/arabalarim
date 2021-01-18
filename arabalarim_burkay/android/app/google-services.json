@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723223061883",
+    "project_id": "arabalarim-burkay",
+    "storage_bucket": "arabalarim-burkay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723223061883:android:6213d42a9989f4458a89de",
+        "android_client_info": {
+          "package_name": "com.example.arabalarim_burkay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723223061883-82lei99nrj30mu5h01plnp3k5i7l891i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGM_nBm7ycpdVoAhP4koGWYZ3g2jfvVP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723223061883-82lei99nrj30mu5h01plnp3k5i7l891i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
