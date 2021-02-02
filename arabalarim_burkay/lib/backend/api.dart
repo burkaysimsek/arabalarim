@@ -4,8 +4,8 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class Api {
-  static String baseURL = "http://192.168.0.15/arabalarim/";
-  static String apiUrl = "http://192.168.0.15/arabalarim/api.php/";
+  static String baseURL = "http://siberhane.tk/arabalarim/";
+  static String apiUrl = "http://siberhane.tk/arabalarim/api.php/";
   static String araba = baseURL + "api.php?get=araba";
   static String imageURL = baseURL + "images/";
 
